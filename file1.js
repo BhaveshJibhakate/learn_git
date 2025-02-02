@@ -5,3 +5,5 @@ array.forEach((item)=>{
 })
 let another=[3,4,5,6,7]
 console.log("i am creating change on same line for merge conflict")
+
+console.log("hey there");
